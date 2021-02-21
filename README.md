@@ -10,11 +10,13 @@ To get started, look [here](https://github.com/McGamerZone/PublicAPI/wiki)
     </repository>
 </repositories>
 
-<dependency>
-    <groupId>com.github.McGamerZone</groupId>
-    <artifactId>PublicApi</artifactId>
-    <version>VERSION</version>
-</dependency>
+<dependencies>
+    <dependency>
+        <groupId>com.github.McGamerZone</groupId>
+        <artifactId>PublicApi</artifactId>
+        <version>VERSION</version>
+    </dependency>
+</dependencies>
 ```
 
 ## Building From Source
